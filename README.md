@@ -7,7 +7,7 @@
 ### Examples
 
 - [Video Example](https://www.youtube.com/watch?v=Xf_RjG4JuUQ&ab_channel=JohnCanelis)
-- [Live Example]([https://framer.com/projects/Adobe-Stock-Framer--Ano25wHOVibAvfY5ldK9-3bRRe](https://framer.com/projects/Adobe-Stock-Framer-copy--4gsgyz6CGQktX4p7Zkqg-9x9PM)
+- [Live Example](https://framer.com/projects/Adobe-Stock-Framer-copy--4gsgyz6CGQktX4p7Zkqg-9x9PM)
 
 ### Resources
 
