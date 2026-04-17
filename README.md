@@ -1,10 +1,8 @@
 # Adobe Stock + Framer
 
-## Search images within the design canvas.
+Get stock imagery within the design canvas. [Framer](https://www.framer.com/developers/) component built using React, TypeScript, and the [Adobe Stock API](https://www.adobe.io/apis/creativecloud/stock/docs.html).
 
 <img width="980" height="610" alt="framer-adobe-stock-plugin" src="https://github.com/user-attachments/assets/22e00739-5e6a-40f9-9677-22aca11aba39" />
-
-[Framer](https://www.framer.com/developers/) component built using React, TypeScript, and the [Adobe Stock API](https://www.adobe.io/apis/creativecloud/stock/docs.html).
 
 ### Examples
 
